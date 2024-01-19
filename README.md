@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Watcher037
 - 👀 I’m interested in development n cp
-- 🌱 I’m currently learning web dev n c++
+- 🌱 I’m currently learning React
 
 <!---
 Watcher037/Watcher037 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
